@@ -66,11 +66,3 @@ Personal portfolio template built with a focus on UI/UX and performance.
 
 Live Demo  
 https://www.ahmedwael.space
-
----
-
-## 📊 GitHub Stats
-
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedWaelHub&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmedWaelHub&theme=tokyonight)
